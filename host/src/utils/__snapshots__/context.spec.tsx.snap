@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoContext renders correctly 1`] = `
+<body>
+  <div>
+    <ul>
+      <li>
+        <button
+          data-testid="toggle-status"
+        >
+          toggle status
+        </button>
+      </li>
+    </ul>
+    <button
+      data-testid="create-todo"
+    >
+      create todo
+    </button>
+  </div>
+</body>
+`;

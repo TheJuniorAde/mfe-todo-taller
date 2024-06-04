@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer renders correctly 1`] = `
+<body>
+  <div>
+    <div
+      class="p-5 text-gray-300 -text-3xl font-bold"
+    >
+      Tallter test
+    </div>
+  </div>
+</body>
+`;
